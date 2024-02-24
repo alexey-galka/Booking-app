@@ -1,6 +1,5 @@
 from sqlalchemy import Column, Integer, Date, ForeignKey, Computed
 from app.database import Base
-from datetime import date
 
 
 # Object-relation mapping (ORM)
